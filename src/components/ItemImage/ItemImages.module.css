@@ -1,0 +1,13 @@
+.wrapperImage{
+    position: relative;
+}
+.star{
+    position: absolute;
+    right: 8px;
+    top: 8px;
+    fill: #D0D0D0;
+    cursor: pointer;
+}
+.add{
+    fill: #FFAF37;
+}
